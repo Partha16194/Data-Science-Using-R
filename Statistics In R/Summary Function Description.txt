@@ -1,0 +1,13 @@
+The summary() function provides a quick statistical overview of a given dataset or vector. When applied to numeric data, it returns the following key summary statistics:
+
+    Min: The minimum value in the data
+    1st Qu: The first quartile (25th percentile)
+    Median: The middle value (50th percentile)
+    3rd Qu: The third quartile (75th percentile)
+    Max: The maximum value in the data
+
+Syntax:
+
+    summary(data)
+
+Where, data can be a vector, dataframe, etc. In this article, we will explore the summary() function in the R programming language.
